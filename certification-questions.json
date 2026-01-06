@@ -1,0 +1,1019 @@
+{
+  "universal": {
+    "level_1": [
+      {
+        "id": "u1_1",
+        "question": "You receive an email from your manager at 5:45 PM asking for a report by 9 AM tomorrow. You haven't started it yet and it will take 3-4 hours. What's the most professional response?",
+        "options": [
+          "Reply immediately: 'I'll have it ready by 9 AM' and stay late to complete it",
+          "Reply: 'I haven't started this yet. Can we push the deadline to noon?'",
+          "Reply acknowledging the request, provide a realistic timeline, and ask if morning submission is flexible",
+          "Don't respond until tomorrow morning and submit whatever you can finish"
+        ],
+        "correct": 2,
+        "explanation": "Professional communication means being honest about capacity while showing commitment to solutions."
+      },
+      {
+        "id": "u1_2",
+        "question": "During a team meeting, a coworker takes credit for an idea you presented last week. What should you do?",
+        "options": [
+          "Interrupt immediately: 'Actually, that was my idea from last Tuesday's email'",
+          "Stay silent during the meeting, then send an email to your manager afterward",
+          "Wait for an appropriate moment and say: 'I'm glad this idea is gaining traction. I'd be happy to share the original proposal I drafted'",
+          "Confront the coworker privately after the meeting"
+        ],
+        "correct": 2,
+        "explanation": "Address the situation diplomatically without creating confrontation, while ensuring proper credit."
+      },
+      {
+        "id": "u1_3",
+        "question": "Your manager asks you to prioritize these tasks. Which order makes most sense? 1) Draft report due Friday 2) Urgent client email 3) Team meeting prep 4) Quarterly planning (due next month)",
+        "options": [
+          "2, 3, 1, 4",
+          "1, 2, 3, 4",
+          "3, 2, 1, 4",
+          "2, 1, 3, 4"
+        ],
+        "correct": 0,
+        "explanation": "Urgent client needs come first, followed by immediate commitments, then future planning."
+      }
+    ],
+    "level_2": [
+      {
+        "id": "u2_1",
+        "question": "You're cc'd on an email chain where two senior leaders are having a heated disagreement about project direction. They ask for your input. How do you respond?",
+        "options": [
+          "Side with whoever you think is right to show you have strong opinions",
+          "Acknowledge both perspectives have merit, provide objective data to inform the decision, and defer to their judgment",
+          "Reply-all suggesting a compromise between both positions",
+          "Don't respond - this is above your level"
+        ],
+        "correct": 1,
+        "explanation": "Provide value through objective information while respecting hierarchy and decision-making authority."
+      },
+      {
+        "id": "u2_2",
+        "question": "You discover a significant error in a report that was already presented to clients last week. The error makes your company look better than reality. What do you do?",
+        "options": [
+          "Quietly correct it for next time but don't bring up the past error",
+          "Immediately email the client with the correction",
+          "Inform your manager first, explain the error and impact, and ask how they want to handle client communication",
+          "Wait to see if anyone notices the error"
+        ],
+        "correct": 2,
+        "explanation": "Ethical issues require immediate escalation through proper channels, not unilateral action."
+      },
+      {
+        "id": "u2_3",
+        "question": "Your team is struggling to meet a deadline. You could work through the weekend to finish, but you already have personal commitments. What's the best approach?",
+        "options": [
+          "Cancel your personal plans - work always comes first in your first year",
+          "Communicate your availability constraints, offer specific hours you can contribute, and ask how to best help the team",
+          "Don't mention your plans, just say you can't work weekends",
+          "Work secretly from home during your personal time without telling anyone"
+        ],
+        "correct": 1,
+        "explanation": "Professional boundaries require clear communication about availability while showing commitment to team success."
+      }
+    ],
+    "level_3": [
+      {
+        "id": "u3_1",
+        "question": "You're assigned to work with a colleague who has a reputation for being difficult. In your first meeting, they're dismissive of your ideas. How do you handle this ongoing relationship?",
+        "options": [
+          "Match their energy - be equally dismissive to establish boundaries",
+          "Complain to your manager about their attitude",
+          "Continue engaging professionally, focus on shared goals, document your contributions, and seek regular feedback from stakeholders",
+          "Avoid working with them as much as possible"
+        ],
+        "correct": 2,
+        "explanation": "Difficult relationships require consistent professionalism, focus on outcomes, and documentation without escalation."
+      },
+      {
+        "id": "u3_2",
+        "question": "During a client presentation, you realize the data you're showing is from an outdated report. The current data is less favorable. What do you do in the moment?",
+        "options": [
+          "Continue with the presentation and send an update email later",
+          "Immediately stop and say 'I apologize, I need to verify this data before we continue'",
+          "Verbally mention the data might be outdated while showing the slide, then verify afterward",
+          "Finish the presentation but speak quickly through that slide"
+        ],
+        "correct": 1,
+        "explanation": "Integrity requires immediately addressing inaccurate information, even when uncomfortable."
+      },
+      {
+        "id": "u3_3",
+        "question": "You're offered a project that would be great for your career, but it requires skills you don't have yet. The timeline is tight. What's the most professional response?",
+        "options": [
+          "Accept confidently and figure it out as you go",
+          "Decline because you're not qualified",
+          "Accept, immediately communicate specific knowledge gaps, and propose a learning plan with check-in milestones",
+          "Accept but ask for the deadline to be extended significantly"
+        ],
+        "correct": 2,
+        "explanation": "Growth opportunities require honest assessment of readiness plus concrete plans to bridge gaps."
+      }
+    ],
+    "level_4": [
+      {
+        "id": "u4_1",
+        "question": "You notice a pattern where certain team members' ideas are consistently overlooked in meetings while others are always heard. How do you address this systemically?",
+        "options": [
+          "Speak up for the overlooked people whenever it happens",
+          "Privately suggest to those people that they should be more assertive",
+          "Propose structured meeting formats where everyone shares input before open discussion, and track idea attribution",
+          "This isn't your problem to solve - it's the manager's job"
+        ],
+        "correct": 2,
+        "explanation": "Systemic issues require systemic solutions, not individual interventions."
+      },
+      {
+        "id": "u4_2",
+        "question": "Your manager asks you to present their work to senior leadership because they're unavailable. During Q&A, you're asked about methodology details you don't fully understand. How do you respond?",
+        "options": [
+          "Give your best guess to avoid looking unprepared",
+          "Say 'I don't know' and move on quickly",
+          "Acknowledge you're presenting on behalf of [manager], explain what you do know, and commit to getting detailed answers within 24 hours",
+          "Deflect to another topic you're more comfortable with"
+        ],
+        "correct": 2,
+        "explanation": "Representing others' work requires clear context-setting and honest boundaries on your knowledge."
+      }
+    ],
+    "level_5": [
+      {
+        "id": "u5_1",
+        "question": "You're asked to implement a policy you personally disagree with. It's legal and ethical, but you think it will hurt team morale. What's the most professional approach?",
+        "options": [
+          "Implement it but make it clear to your team you don't support it",
+          "Express your concerns to leadership, advocate for alternatives with data, but implement fully if they proceed",
+          "Implement it slowly/poorly hoping it will be abandoned",
+          "Request to be removed from this responsibility"
+        ],
+        "correct": 1,
+        "explanation": "Professional dissent means advocating clearly upstream, then executing decisions fully once made."
+      },
+      {
+        "id": "u5_2",
+        "question": "You discover that a colleague is taking credit for team accomplishments in 1:1s with leadership. This is affecting your performance perception. How do you handle this?",
+        "options": [
+          "Confront the colleague directly and demand they stop",
+          "Start doing the same thing in your 1:1s",
+          "Document your contributions, proactively share impact in your own 1:1s without mentioning the colleague, and ensure your work is visible to stakeholders",
+          "Report this behavior to HR"
+        ],
+        "correct": 2,
+        "explanation": "Professional self-advocacy focuses on demonstrating your value, not undermining others."
+      }
+    ]
+  },
+  "business": {
+    "level_1": [
+      {
+        "id": "b1_1",
+        "question": "What is the primary purpose of a company's income statement?",
+        "options": [
+          "To show the company's assets and liabilities at a point in time",
+          "To show revenue, expenses, and profit over a period of time",
+          "To track cash flowing in and out of the business",
+          "To list all shareholders and their ownership percentages"
+        ],
+        "correct": 1,
+        "explanation": "The income statement shows financial performance (revenue and expenses) over a specific period."
+      },
+      {
+        "id": "b1_2",
+        "question": "In a business context, what does ROI stand for?",
+        "options": [
+          "Rate of Income",
+          "Return on Investment",
+          "Ratio of Interest",
+          "Revenue Optimization Index"
+        ],
+        "correct": 1,
+        "explanation": "ROI (Return on Investment) measures the profitability of an investment relative to its cost."
+      },
+      {
+        "id": "b1_3",
+        "question": "Which of these is considered a fixed cost for most businesses?",
+        "options": [
+          "Raw materials",
+          "Sales commissions",
+          "Office rent",
+          "Packaging supplies"
+        ],
+        "correct": 2,
+        "explanation": "Fixed costs like rent remain constant regardless of production volume, unlike variable costs."
+      }
+    ],
+    "level_2": [
+      {
+        "id": "b2_1",
+        "question": "A company has $500K revenue, $200K in COGS, and $150K in operating expenses. What is their operating profit margin?",
+        "options": [
+          "30%",
+          "40%",
+          "50%",
+          "60%"
+        ],
+        "correct": 0,
+        "explanation": "Operating Profit = Revenue - COGS - OpEx = $150K. Margin = $150K/$500K = 30%"
+      },
+      {
+        "id": "b2_2",
+        "question": "Your company is choosing between two projects: Project A has 60% chance of $100K profit, Project B has 40% chance of $200K profit. Based on expected value, which is better?",
+        "options": [
+          "Project A ($60K expected value)",
+          "Project B ($80K expected value)",
+          "They're equal in expected value",
+          "Not enough information to determine"
+        ],
+        "correct": 1,
+        "explanation": "Expected Value: A = 0.6 × $100K = $60K, B = 0.4 × $200K = $80K"
+      },
+      {
+        "id": "b2_3",
+        "question": "In business analysis, what does 'break-even point' mean?",
+        "options": [
+          "When a company's stock price returns to its IPO price",
+          "When total revenue equals total costs",
+          "When a project reaches 50% completion",
+          "When cash flow becomes positive"
+        ],
+        "correct": 1,
+        "explanation": "Break-even is when total revenue equals total costs, resulting in zero profit/loss."
+      }
+    ],
+    "level_3": [
+      {
+        "id": "b3_1",
+        "question": "A SaaS company has $2M ARR, 80% gross margin, and $1.8M in operating expenses. Their CAC is $500 and average customer LTV is $2,000. What's the most critical issue?",
+        "options": [
+          "They're not profitable yet despite healthy unit economics",
+          "Their LTV:CAC ratio is too low for sustainable growth",
+          "Gross margin is too low for a SaaS business",
+          "Operating expenses are too high relative to revenue"
+        ],
+        "correct": 0,
+        "explanation": "LTV:CAC of 4:1 is strong. 80% margin is good. Issue: OpEx ($1.8M) > Gross Profit ($1.6M)"
+      },
+      {
+        "id": "b3_2",
+        "question": "You're analyzing two marketing channels. Channel A: $10K spend, 100 customers, $50K revenue. Channel B: $5K spend, 30 customers, $25K revenue. Which is more efficient?",
+        "options": [
+          "Channel A (5x ROAS vs 5x ROAS - they're equal)",
+          "Channel B (lower cost per acquisition)",
+          "Channel A (more total revenue)",
+          "Need customer lifetime value to determine"
+        ],
+        "correct": 3,
+        "explanation": "While ROAS is equal (5x), you need LTV to determine if the difference in CAC ($100 vs $167) matters long-term."
+      },
+      {
+        "id": "b3_3",
+        "question": "In Porter's Five Forces, which factor is most relevant when analyzing the threat to a coffee shop from a new competitor opening nearby?",
+        "options": [
+          "Bargaining power of suppliers",
+          "Threat of new entrants",
+          "Rivalry among existing competitors",
+          "Threat of substitute products"
+        ],
+        "correct": 2,
+        "explanation": "A new competitor joining the market increases rivalry among existing competitors in the same space."
+      }
+    ],
+    "level_4": [
+      {
+        "id": "b4_1",
+        "question": "A company is considering expanding into a new market. Market research shows: TAM of $500M, projected market share of 3%, gross margin of 60%, customer acquisition cost of $200, and estimated LTV of $800. Fixed costs for market entry are $5M. What's the primary risk?",
+        "options": [
+          "TAM is too small to justify investment",
+          "LTV:CAC ratio suggests unprofitable unit economics",
+          "Fixed costs may exceed gross profit in early years",
+          "Gross margin is too thin for the business model"
+        ],
+        "correct": 2,
+        "explanation": "Revenue = $15M (3% of $500M), Gross Profit = $9M (60%), but $5M fixed costs create significant early-stage burn."
+      },
+      {
+        "id": "b4_2",
+        "question": "You're evaluating a partnership where your company gets 60% revenue share but handles all customer support (estimated 20% of revenue). The partner handles sales (typically 15% of revenue). Is this a fair deal?",
+        "options": [
+          "Yes - you're getting the larger revenue share",
+          "No - you're effectively getting 40% after costs while partner gets 55%",
+          "Yes - support costs are always lower than sales costs",
+          "Not enough information about actual cost structures"
+        ],
+        "correct": 3,
+        "explanation": "Need to know: actual support costs, partner's sales costs, who owns the customer relationship, and scalability of each function."
+      }
+    ],
+    "level_5": [
+      {
+        "id": "b5_1",
+        "question": "A private equity firm offers to buy your company for 6x EBITDA. Your EBITDA is $5M, growing 20% annually. Industry multiples for companies your size are 4-5x, but fast-growing companies trade at 8-10x. What additional information is MOST critical for your decision?",
+        "options": [
+          "Whether the PE firm has a good reputation",
+          "Your confidence in sustaining 20% growth and the capital required to do so",
+          "What your competitors have sold for",
+          "The PE firm's exit timeline expectations"
+        ],
+        "correct": 1,
+        "explanation": "The 6x offer is middle-range. The key question: can you sustain growth to reach 8-10x valuation, and do you have capital for it?"
+      },
+      {
+        "id": "b5_2",
+        "question": "You're presenting a business case to the board. Your analysis shows the project has a 3-year payback period, 25% IRR, and positive NPV at a 12% discount rate. However, it requires investing in technology the company hasn't used before. What's the most important risk to address proactively?",
+        "options": [
+          "The financial returns might not materialize",
+          "The technology learning curve and implementation risk could delay ROI",
+          "Competitors might launch similar initiatives",
+          "The discount rate assumption might be wrong"
+        ],
+        "correct": 1,
+        "explanation": "Financials are strong, but execution risk from unfamiliar technology is the largest threat to achieving them."
+      }
+    ]
+  },
+  "technology": {
+    "level_1": [
+      {
+        "id": "t1_1",
+        "question": "What does API stand for in software development?",
+        "options": [
+          "Application Programming Interface",
+          "Advanced Program Integration",
+          "Automated Processing Index",
+          "Application Process Indicator"
+        ],
+        "correct": 0,
+        "explanation": "API (Application Programming Interface) allows different software applications to communicate with each other."
+      },
+      {
+        "id": "t1_2",
+        "question": "In a tech company, what is 'version control' primarily used for?",
+        "options": [
+          "Managing software releases to customers",
+          "Tracking and managing changes to code over time",
+          "Controlling which team members can access the codebase",
+          "Documenting software versions in user manuals"
+        ],
+        "correct": 1,
+        "explanation": "Version control systems like Git track code changes, enabling collaboration and maintaining code history."
+      },
+      {
+        "id": "t1_3",
+        "question": "You're asked to test a new feature before it goes live. This process is called:",
+        "options": [
+          "Production deployment",
+          "Quality assurance (QA) testing",
+          "User acceptance testing only",
+          "Version control"
+        ],
+        "correct": 1,
+        "explanation": "QA testing involves systematically testing features to identify bugs before release."
+      }
+    ],
+    "level_2": [
+      {
+        "id": "t2_1",
+        "question": "A client reports that the website is running slowly. What's the most systematic first step in troubleshooting?",
+        "options": [
+          "Immediately restart all servers",
+          "Gather specific information: when it started, which pages, how many users affected",
+          "Tell the client it's probably their internet connection",
+          "Start checking the database logs"
+        ],
+        "correct": 1,
+        "explanation": "Effective troubleshooting starts with gathering specific data to narrow down the root cause."
+      },
+      {
+        "id": "t2_2",
+        "question": "Your manager asks you to explain 'Agile methodology' to a non-technical stakeholder. Which description is best?",
+        "options": [
+          "It's a way to write code faster using shortcuts",
+          "It's an iterative approach that delivers work in small increments with regular feedback",
+          "It's a specific programming language framework",
+          "It's a project management tool like Jira"
+        ],
+        "correct": 1,
+        "explanation": "Agile emphasizes iterative development, continuous feedback, and adaptability to change."
+      },
+      {
+        "id": "t2_3",
+        "question": "You discover a security vulnerability in legacy code. The fix will take 2 weeks, but there's a workaround that takes 1 hour. What should you do?",
+        "options": [
+          "Implement the quick workaround and move on",
+          "Implement the workaround immediately, document the vulnerability, and schedule the proper fix",
+          "Wait until you can do the full fix properly",
+          "Report it to security team and wait for their instructions"
+        ],
+        "correct": 1,
+        "explanation": "Security issues require immediate mitigation (workaround) plus a plan for proper resolution."
+      }
+    ],
+    "level_3": [
+      {
+        "id": "t3_1",
+        "question": "Your team is debating between building a feature internally versus using a third-party API. The API costs $500/month. Building internally would take 2 weeks of developer time ($8K). What factors should most influence the decision?",
+        "options": [
+          "Always build internally to avoid ongoing costs",
+          "Just calculate the break-even point (16 months) and decide based on that",
+          "Consider break-even, maintenance burden, feature customization needs, vendor reliability, and strategic importance",
+          "Always use the API to save initial development time"
+        ],
+        "correct": 2,
+        "explanation": "Build vs. buy decisions require evaluating multiple factors beyond simple cost comparison."
+      },
+      {
+        "id": "t3_2",
+        "question": "You're reviewing a pull request with code that works but doesn't follow team standards. The developer is senior to you. What's the most professional approach?",
+        "options": [
+          "Approve it since it works and they're senior",
+          "Comment on the standards violations with links to team guidelines, suggest changes, but note the code functions correctly",
+          "Reject the pull request outright",
+          "Privately message your manager about the issue"
+        ],
+        "correct": 1,
+        "explanation": "Code review should be objective and focus on standards, regardless of seniority, while being respectful."
+      },
+      {
+        "id": "t3_3",
+        "question": "A major production bug is causing customer issues. You know how to fix it, but the fix hasn't gone through the normal review process. What should you do?",
+        "options": [
+          "Deploy the fix immediately - customers come first",
+          "Follow the normal process even though customers are affected",
+          "Deploy the fix to resolve the immediate issue, then immediately create a post-incident review and properly reviewed fix",
+          "Wait for explicit approval from leadership"
+        ],
+        "correct": 2,
+        "explanation": "Production emergencies require immediate action followed by proper process and documentation."
+      }
+    ],
+    "level_4": [
+      {
+        "id": "t4_1",
+        "question": "Your team is experiencing frequent production incidents. Each incident is different, but they're disrupting customer service. What's the most effective systematic approach?",
+        "options": [
+          "Hire more engineers to handle incidents faster",
+          "Implement better monitoring and alerting systems",
+          "Conduct post-mortems on each incident, identify patterns, prioritize systemic improvements, and implement preventative measures",
+          "Create a dedicated on-call rotation"
+        ],
+        "correct": 2,
+        "explanation": "Reducing incidents requires systematic analysis of root causes and preventative action, not just faster response."
+      },
+      {
+        "id": "t4_2",
+        "question": "You're asked to estimate a complex feature. Your initial estimate is 3 weeks, but leadership wants it in 1 week. How should you respond?",
+        "options": [
+          "Agree to 1 week and work overtime to make it happen",
+          "Refuse to change your estimate",
+          "Break down the estimate into specific tasks with dependencies, explain what's achievable in 1 week with trade-offs, and let leadership decide priorities",
+          "Compromise at 2 weeks"
+        ],
+        "correct": 2,
+        "explanation": "Professional estimation involves transparency about scope, trade-offs, and realistic timelines."
+      }
+    ],
+    "level_5": [
+      {
+        "id": "t5_1",
+        "question": "Your team is designing a system that could scale to 10M users or might only ever have 10K. The scalable architecture costs 3x more to build. The product's market fit is unproven. What's the most prudent technical approach?",
+        "options": [
+          "Build for 10M users from day one - it's harder to scale later",
+          "Build for 10K users with clear architectural boundaries that enable future scaling, and plan specific scaling triggers",
+          "Build for 10K users and worry about scaling when needed",
+          "Build a hybrid solution that's somewhere in the middle"
+        ],
+        "correct": 1,
+        "explanation": "Premature optimization wastes resources, but good architecture enables scaling when validated by user growth."
+      },
+      {
+        "id": "t5_2",
+        "question": "You're the technical lead. A junior engineer proposes a solution using a new technology the team hasn't used. It would solve the problem well but requires learning time. How do you evaluate this?",
+        "options": [
+          "Reject it - stick with known technologies",
+          "Accept it to encourage innovation",
+          "Evaluate: problem fit, team learning curve, long-term maintenance, alternative solutions, and timeline constraints before deciding",
+          "Do a proof of concept and decide based on that"
+        ],
+        "correct": 2,
+        "explanation": "Technology decisions require balancing innovation with pragmatic concerns about delivery and maintenance."
+      }
+    ]
+  },
+  "healthcare": {
+    "level_1": [
+      {
+        "id": "h1_1",
+        "question": "What does HIPAA primarily regulate in healthcare?",
+        "options": [
+          "Hospital insurance and payment processing",
+          "Patient privacy and protected health information",
+          "Healthcare provider licensing requirements",
+          "Hospital accreditation standards"
+        ],
+        "correct": 1,
+        "explanation": "HIPAA (Health Insurance Portability and Accountability Act) protects patient privacy and regulates health information handling."
+      },
+      {
+        "id": "h1_2",
+        "question": "A patient asks you to share their medical information with a family member. What should you do first?",
+        "options": [
+          "Share the information since it's a family member",
+          "Verify the patient's written consent or authorization",
+          "Ask your supervisor for permission",
+          "Explain you can't share any information"
+        ],
+        "correct": 1,
+        "explanation": "Patient authorization is required before sharing protected health information, even with family."
+      },
+      {
+        "id": "h1_3",
+        "question": "What does 'patient-centered care' mean?",
+        "options": [
+          "Making patients responsible for their own care decisions",
+          "Respecting patient preferences, needs, and values in all care decisions",
+          "Focusing all resources on the sickest patients",
+          "Ensuring patients are satisfied with their care experience"
+        ],
+        "correct": 1,
+        "explanation": "Patient-centered care involves respecting individual patient preferences and ensuring they guide all clinical decisions."
+      }
+    ],
+    "level_2": [
+      {
+        "id": "h2_1",
+        "question": "You notice a colleague accessing patient records they're not involved in treating. What should you do?",
+        "options": [
+          "Ignore it - they probably have a good reason",
+          "Confront them directly about it",
+          "Report it to your supervisor or compliance officer immediately",
+          "Wait to see if it happens again"
+        ],
+        "correct": 2,
+        "explanation": "Unauthorized access to patient records is a serious HIPAA violation requiring immediate reporting."
+      },
+      {
+        "id": "h2_2",
+        "question": "A patient is upset about their treatment plan and wants to speak to someone in charge. The physician is unavailable. How should you respond?",
+        "options": [
+          "Tell them there's nothing you can do until the doctor returns",
+          "Defend the physician's treatment decisions",
+          "Listen to their concerns empathetically, document them, and explain the process for addressing concerns (patient advocate, charge nurse, etc.)",
+          "Immediately change their treatment plan to address their concerns"
+        ],
+        "correct": 2,
+        "explanation": "Patient concerns require active listening, proper documentation, and guiding them through appropriate channels."
+      },
+      {
+        "id": "h2_3",
+        "question": "You're asked to perform a task you've been trained on but have never done independently. The facility is short-staffed. What's the most appropriate response?",
+        "options": [
+          "Decline because you're not comfortable yet",
+          "Do it since you've been trained",
+          "Acknowledge your training, request supervision for your first independent attempt, and communicate your competency level honestly",
+          "Ask a colleague to walk you through it quickly"
+        ],
+        "correct": 2,
+        "explanation": "Patient safety requires honest communication about competency levels and appropriate supervision."
+      }
+    ],
+    "level_3": [
+      {
+        "id": "h3_1",
+        "question": "You're working on a care coordination project. A patient needs services from three different departments, but they don't communicate well with each other, leading to delays. How do you address this systematically?",
+        "options": [
+          "Work harder to coordinate things manually for each patient",
+          "Identify the communication gaps, propose a standardized handoff process, and create a shared documentation system",
+          "Report the departments to management",
+          "Focus only on patients most affected by the delays"
+        ],
+        "correct": 1,
+        "explanation": "Systematic problems require process improvements, not just individual workarounds."
+      },
+      {
+        "id": "h3_2",
+        "question": "You're reviewing patient satisfaction scores. One provider has significantly lower scores despite good clinical outcomes. What's the best approach to understanding this?",
+        "options": [
+          "Conclude the provider has poor bedside manner",
+          "Ignore it since clinical outcomes are good",
+          "Analyze the feedback for patterns, compare with similar providers, and have a constructive conversation focused on specific behaviors and patient feedback",
+          "Report the provider to administration"
+        ],
+        "correct": 2,
+        "explanation": "Performance issues require data-driven analysis and constructive feedback, not assumptions."
+      },
+      {
+        "id": "h3_3",
+        "question": "A patient's family is asking for a treatment that's not medically indicated according to evidence-based guidelines. They're insistent. How should the care team respond?",
+        "options": [
+          "Provide the treatment to satisfy the family",
+          "Refuse the treatment without explanation",
+          "Explain the evidence-based reasoning, explore the family's concerns, discuss alternatives, and involve ethics consultation if needed",
+          "Tell them to find another provider"
+        ],
+        "correct": 2,
+        "explanation": "Medical decision-making requires balancing evidence, patient autonomy, and ethical considerations through dialogue."
+      }
+    ],
+    "level_4": [
+      {
+        "id": "h4_1",
+        "question": "Your hospital is implementing a new electronic health record (EHR) system. Staff are resisting the change due to concerns about workflow disruption. As a team lead, how do you facilitate this transition?",
+        "options": [
+          "Mandate compliance - the decision has been made",
+          "Delay implementation until everyone is comfortable",
+          "Identify super-users, create workflow-specific training, establish feedback loops, and address concerns while maintaining implementation timeline",
+          "Let each department implement at their own pace"
+        ],
+        "correct": 2,
+        "explanation": "Change management requires structured support, training, and feedback mechanisms while maintaining progress."
+      },
+      {
+        "id": "h4_2",
+        "question": "You're analyzing readmission rates for heart failure patients. Your hospital's rate is higher than the national average. What's the most systematic approach to improvement?",
+        "options": [
+          "Focus on improving acute care during hospitalization",
+          "Analyze discharge processes, follow-up care coordination, patient education, and social determinants; then pilot targeted interventions",
+          "Hire more cardiologists",
+          "Create stricter admission criteria"
+        ],
+        "correct": 1,
+        "explanation": "Reducing readmissions requires systematic analysis of the entire care continuum and evidence-based interventions."
+      }
+    ],
+    "level_5": [
+      {
+        "id": "h5_1",
+        "question": "Your health system is considering a value-based care contract that shifts from fee-for-service to capitated payments. What are the most critical operational capabilities needed before accepting this risk?",
+        "options": [
+          "Just negotiate a higher capitation rate",
+          "Ensure you have data analytics for population health, care coordination infrastructure, quality metrics tracking, and risk stratification capabilities",
+          "Reduce services to control costs",
+          "Wait until other health systems prove the model works"
+        ],
+        "correct": 1,
+        "explanation": "Value-based care requires sophisticated infrastructure to manage population health and coordinate care effectively."
+      },
+      {
+        "id": "h5_2",
+        "question": "You're leading a quality improvement initiative to reduce surgical site infections. Early data shows some progress, but compliance with the new protocol varies widely between surgeons. How do you drive adoption?",
+        "options": [
+          "Mandate compliance through policy",
+          "Make the protocol optional",
+          "Share outcome data by surgeon (blinded), engage physician champions, understand barriers to compliance, and use peer influence",
+          "Focus only on surgeons with poor compliance"
+        ],
+        "correct": 2,
+        "explanation": "Clinical behavior change requires data transparency, peer influence, and addressing specific adoption barriers."
+      }
+    ]
+  },
+  "marketing": {
+    "level_1": [
+      {
+        "id": "m1_1",
+        "question": "What does 'target audience' mean in marketing?",
+        "options": [
+          "The total number of people who might buy your product",
+          "The specific group of consumers most likely to want your product or service",
+          "Anyone who visits your website",
+          "Your current customers only"
+        ],
+        "correct": 1,
+        "explanation": "Target audience refers to the specific demographic/psychographic group most likely to engage with your offering."
+      },
+      {
+        "id": "m1_2",
+        "question": "In social media marketing, what does 'engagement rate' typically measure?",
+        "options": [
+          "How many followers you have",
+          "How much you're spending on ads",
+          "The percentage of your audience that interacts with your content (likes, comments, shares)",
+          "How long people spend on your website"
+        ],
+        "correct": 2,
+        "explanation": "Engagement rate measures the level of interaction your content receives relative to your audience size."
+      },
+      {
+        "id": "m1_3",
+        "question": "A customer posts a negative review on social media. What's the most professional first response?",
+        "options": [
+          "Defend your company's position publicly",
+          "Ignore it and hope it goes away",
+          "Respond promptly and professionally, acknowledge their concern, and offer to resolve it privately",
+          "Delete the review"
+        ],
+        "correct": 2,
+        "explanation": "Negative feedback requires timely, empathetic public acknowledgment followed by private resolution."
+      }
+    ],
+    "level_2": [
+      {
+        "id": "m2_1",
+        "question": "You're running a Facebook ad campaign. After one week: 10,000 impressions, 200 clicks, 10 conversions. What's your conversion rate?",
+        "options": [
+          "0.1% (10/10,000)",
+          "2% (200/10,000)",
+          "5% (10/200)",
+          "Not enough information"
+        ],
+        "correct": 2,
+        "explanation": "Conversion rate = (Conversions / Clicks) × 100 = (10/200) × 100 = 5%"
+      },
+      {
+        "id": "m2_2",
+        "question": "Your email campaign has a 25% open rate and 5% click-through rate. Industry average is 20% open rate and 3% CTR. What should you focus on?",
+        "options": [
+          "Improving open rates since they're only slightly above average",
+          "You're beating benchmarks on both metrics, so focus on conversion optimization after the click",
+          "Completely redesign your email strategy",
+          "Increase email frequency"
+        ],
+        "correct": 1,
+        "explanation": "When top-funnel metrics exceed benchmarks, optimize further down the funnel for greater impact."
+      },
+      {
+        "id": "m2_3",
+        "question": "You're creating content for three platforms: LinkedIn, Instagram, and TikTok. What's the most efficient approach?",
+        "options": [
+          "Post the exact same content on all three platforms",
+          "Create unique content for each platform",
+          "Develop core content, then adapt format, tone, and creative elements for each platform's audience and best practices",
+          "Only focus on the platform with the most followers"
+        ],
+        "correct": 2,
+        "explanation": "Effective multi-platform strategy balances efficiency with platform-specific optimization."
+      }
+    ],
+    "level_3": [
+      {
+        "id": "m3_1",
+        "question": "You have a $10K marketing budget. Channel A: $50 CAC, 30% conversion to customer, $200 LTV. Channel B: $100 CAC, 50% conversion, $400 LTV. How should you allocate budget?",
+        "options": [
+          "All to Channel A (lower CAC)",
+          "All to Channel B (higher LTV)",
+          "Heavily favor Channel B (better LTV:CAC ratio of 4:1 vs 4:1 - actually they're equal, so test both)",
+          "Split evenly"
+        ],
+        "correct": 2,
+        "explanation": "Both channels have 4:1 LTV:CAC. Test both, but Channel B's higher conversion rate may scale better."
+      },
+      {
+        "id": "m3_2",
+        "question": "Your brand campaign isn't directly driving conversions, but organic search traffic and direct website visits have increased 40% since launch. How should you evaluate this campaign?",
+        "options": [
+          "It's failing - no direct conversions means it's not working",
+          "It's succeeding - brand awareness is driving indirect conversions through organic and direct channels",
+          "Not enough information to evaluate",
+          "Keep running it and hope for direct conversions eventually"
+        ],
+        "correct": 1,
+        "explanation": "Brand campaigns often drive indirect conversions through increased brand search and direct traffic."
+      },
+      {
+        "id": "m3_3",
+        "question": "You're launching a new product. Marketing wants a big splash campaign. Product team says the product isn't quite ready. Sales is pushing for immediate launch. What's the most strategic approach?",
+        "options": [
+          "Launch now - you can fix product issues later",
+          "Wait until the product is perfect",
+          "Assess the specific product readiness issues, evaluate if they're critical to customer satisfaction, and propose a phased launch or beta program if needed",
+          "Let leadership decide"
+        ],
+        "correct": 2,
+        "explanation": "Launch decisions require balancing market opportunity, product quality, and customer experience expectations."
+      }
+    ],
+    "level_4": [
+      {
+        "id": "m4_1",
+        "question": "Your company's NPS (Net Promoter Score) dropped from 45 to 30 over six months, coinciding with a major marketing campaign. What's the most likely issue and solution?",
+        "options": [
+          "The campaign was ineffective - change the messaging",
+          "The campaign may have set expectations the product didn't meet - analyze customer feedback and align messaging with actual experience",
+          "NPS fluctuates naturally - ignore it",
+          "Customers are just being more critical"
+        ],
+        "correct": 1,
+        "explanation": "NPS drops during marketing campaigns often indicate a misalignment between promised and delivered experience."
+      },
+      {
+        "id": "m4_2",
+        "question": "You're analyzing marketing attribution. Most conversions show 'direct' as the source, but your paid campaigns are running. What's likely happening and how do you address it?",
+        "options": [
+          "Your paid campaigns aren't working",
+          "Users are seeing ads but converting through direct visits later - implement multi-touch attribution to understand the full customer journey",
+          "Direct traffic is genuinely your best channel",
+          "Your tracking is broken"
+        ],
+        "correct": 1,
+        "explanation": "Single-touch attribution often misses the influence of awareness channels on later direct conversions."
+      }
+    ],
+    "level_5": [
+      {
+        "id": "m5_1",
+        "question": "Your CMO wants to increase brand awareness measured by unaided recall. You have $500K. Which investment is likely most effective for this specific goal?",
+        "options": [
+          "Performance marketing (Google Ads, Facebook)",
+          "Combination of sustained TV/podcast sponsorships, PR campaign, and memorable creative execution",
+          "SEO and content marketing",
+          "Influencer partnerships"
+        ],
+        "correct": 1,
+        "explanation": "Unaided recall requires repeated exposure through high-reach channels with memorable creative, not direct response."
+      },
+      {
+        "id": "m5_2",
+        "question": "Your company is entering a new market where you have zero brand recognition. Competitors are established. You have limited budget. What's the most effective go-to-market strategy?",
+        "options": [
+          "Try to out-spend competitors on awareness",
+          "Focus on a specific niche where you can dominate, prove value, then expand - combined with targeted content and community building",
+          "Launch broadly to gain market share quickly",
+          "Wait until you have a bigger budget"
+        ],
+        "correct": 1,
+        "explanation": "Limited budgets require focused dominance in a niche before broader expansion, especially against established competitors."
+      }
+    ]
+  },
+  "finance": {
+    "level_1": [
+      {
+        "id": "f1_1",
+        "question": "What is the difference between revenue and profit?",
+        "options": [
+          "Revenue and profit are the same thing",
+          "Revenue is total income; profit is what remains after subtracting expenses",
+          "Revenue is monthly income; profit is annual income",
+          "Profit is always higher than revenue"
+        ],
+        "correct": 1,
+        "explanation": "Revenue is total income from sales, while profit is revenue minus all costs and expenses."
+      },
+      {
+        "id": "f1_2",
+        "question": "What does 'liquid assets' mean?",
+        "options": [
+          "Assets that can be quickly converted to cash without significant loss of value",
+          "Any assets a company owns",
+          "Only cash in bank accounts",
+          "Assets that produce water or oil"
+        ],
+        "correct": 0,
+        "explanation": "Liquid assets like cash, stocks, or bonds can be quickly converted to cash with minimal value loss."
+      },
+      {
+        "id": "f1_3",
+        "question": "In financial statements, what does 'accounts receivable' represent?",
+        "options": [
+          "Money the company owes to suppliers",
+          "Money customers owe to the company for goods/services already provided",
+          "The company's bank account balance",
+          "Future sales projections"
+        ],
+        "correct": 1,
+        "explanation": "Accounts receivable represents revenue earned but not yet collected from customers."
+      }
+    ],
+    "level_2": [
+      {
+        "id": "f2_1",
+        "question": "A company has $1M in assets and $600K in liabilities. What is the company's equity?",
+        "options": [
+          "$600K",
+          "$400K",
+          "$1M",
+          "$1.6M"
+        ],
+        "correct": 1,
+        "explanation": "Equity = Assets - Liabilities = $1M - $600K = $400K. This follows the accounting equation."
+      },
+      {
+        "id": "f2_2",
+        "question": "You're reviewing a quarterly financial report. Revenue increased 20% but operating profit decreased 10%. What's the most likely issue?",
+        "options": [
+          "The accounting is wrong",
+          "Operating expenses grew faster than revenue",
+          "This is impossible",
+          "Revenue growth is fake"
+        ],
+        "correct": 1,
+        "explanation": "Revenue growth with declining profit indicates that costs/expenses increased more than the revenue gain."
+      },
+      {
+        "id": "f2_3",
+        "question": "A startup has $500K in the bank and burns $50K per month. They're in talks with investors for Series A funding. What's their 'runway'?",
+        "options": [
+          "5 months",
+          "10 months",
+          "$500K",
+          "Cannot be determined"
+        ],
+        "correct": 1,
+        "explanation": "Runway = Cash on hand / Monthly burn rate = $500K / $50K = 10 months until they run out of money."
+      }
+    ],
+    "level_3": [
+      {
+        "id": "f3_1",
+        "question": "You're analyzing two investment opportunities. Investment A: $100K returns $120K in one year. Investment B: $100K returns $130K in two years. Assuming 5% discount rate, which is better?",
+        "options": [
+          "Investment A (faster return)",
+          "Investment B (higher absolute return)",
+          "Need to calculate NPV - A: ~$114K, B: ~$118K, so B is better",
+          "They're equal in value"
+        ],
+        "correct": 2,
+        "explanation": "NPV accounts for time value of money. B: $130K/(1.05)² ≈ $118K > A: $120K/1.05 ≈ $114K"
+      },
+      {
+        "id": "f3_2",
+        "question": "A company's current ratio is 0.8 (current assets / current liabilities). What does this indicate?",
+        "options": [
+          "The company is very profitable",
+          "The company may have liquidity issues - can't cover short-term obligations",
+          "The company has 80% market share",
+          "The company's assets are undervalued"
+        ],
+        "correct": 1,
+        "explanation": "Current ratio below 1.0 suggests the company may struggle to pay short-term debts with current assets."
+      },
+      {
+        "id": "f3_3",
+        "question": "You're preparing a financial forecast. Sales team projects 50% growth, but historical data shows 15% average growth. How should you build your forecast?",
+        "options": [
+          "Use 50% - trust the sales team",
+          "Use 15% - trust historical data",
+          "Create multiple scenarios (conservative: 15%, moderate: 25%, optimistic: 50%) and assess implications of each",
+          "Split the difference at 32.5%"
+        ],
+        "correct": 2,
+        "explanation": "Financial forecasting requires scenario planning to understand risks and opportunities across different outcomes."
+      }
+    ],
+    "level_4": [
+      {
+        "id": "f4_1",
+        "question": "You're evaluating a potential acquisition. The target company has $5M EBITDA and wants 8x multiple ($40M). Your company's cost of capital is 10%. What's your primary concern?",
+        "options": [
+          "The multiple is too high",
+          "Whether you can generate returns above 10% to justify the acquisition at this price",
+          "The cost of capital is irrelevant to acquisition decisions",
+          "EBITDA doesn't matter for acquisitions"
+        ],
+        "correct": 1,
+        "explanation": "Acquisitions must generate returns above the cost of capital to create value for shareholders."
+      },
+      {
+        "id": "f4_2",
+        "question": "Your company's debt-to-equity ratio is rising. When is this a concern versus a strategic choice?",
+        "options": [
+          "Rising debt is always bad",
+          "Rising debt is always good if it's used for growth",
+          "Concern if: unable to service debt, interest rates rising, cash flow unstable. Strategic if: low interest rates, tax benefits, funding growth with positive ROI",
+          "Debt-to-equity doesn't matter"
+        ],
+        "correct": 2,
+        "explanation": "Debt can be strategic leverage or concerning risk depending on the company's ability to service it and the ROI of investments."
+      }
+    ],
+    "level_5": [
+      {
+        "id": "f5_1",
+        "question": "You're CFO of a profitable company considering going public (IPO). Beyond raising capital, what are the key trade-offs to evaluate?",
+        "options": [
+          "Just calculate how much capital you'll raise",
+          "Evaluate: ongoing disclosure requirements, short-term earnings pressure, loss of control, liquidity for shareholders, and strategic flexibility constraints",
+          "Always go public when profitable",
+          "IPOs are only about raising money"
+        ],
+        "correct": 1,
+        "explanation": "IPO decisions involve complex trade-offs between capital access, transparency requirements, and operational flexibility."
+      },
+      {
+        "id": "f5_2",
+        "question": "Your company has the option to use excess cash for: (A) Stock buyback, (B) Dividend, (C) M&A, or (D) R&D investment. How do you decide?",
+        "options": [
+          "Always choose stock buyback",
+          "Evaluate each option's return: buyback if stock undervalued, dividend if no better opportunities, M&A if strategic fit with good returns, R&D if highest expected ROI",
+          "Always invest in R&D for growth",
+          "Let shareholders vote on it"
+        ],
+        "correct": 1,
+        "explanation": "Capital allocation requires comparing expected returns and strategic fit across all available options."
+      }
+    ]
+  },
+  "metadata": {
+    "version": "2.0",
+    "last_updated": "2026-01-05",
+    "industries": ["business", "technology", "healthcare", "marketing", "finance"],
+    "total_questions": 200,
+    "questions_per_industry": 40,
+    "passing_score": 0.80,
+    "time_limit_minutes": 60
+  }
+}
