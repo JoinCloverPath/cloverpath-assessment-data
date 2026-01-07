@@ -6132,9 +6132,9 @@
                 Object.keys(scores).forEach(construct => {
                     const percent = scores[construct].percent;
                     
-                    if (percent >= 66.67) {
+                    if (percent >= 70) {
                         flags[construct] = 'HIGH';
-                    } else if (percent >= 33.33) {
+                    } else if (percent >= 40) {
                         flags[construct] = 'MID';
                     } else {
                         flags[construct] = 'LOW';
